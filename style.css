@@ -1,0 +1,19 @@
+body{
+    background: url(/photos/easter_flowers__47211.webp) top 10% left 15% / 20% no-repeat,
+    url(/photos/flower_2__45127.webp) top 35% left 40% / 20% no-repeat,
+    url(/photos/flowers_3__95798.webp) top 85% left 75% / 20% no-repeat,
+    url(/photos/R.png) top 15% left 90% / 20% no-repeat,
+    url(/photos/sunflower-1.png) top 90% left 8% / 20% no-repeat
+    ,url(/photos/boldizsar-bednarik-AwwdfImDUeQ-unsplash.jpg) top 0 left 0/ cover repeat-y;
+
+}
+
+a{
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    margin: 2%;
+    display: flex;
+}
