@@ -23,7 +23,10 @@
     left: 15%;
     width: 200px;
     height: 200px;
-
+    border-top-left-radius: 5%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
 }
 
 a{
